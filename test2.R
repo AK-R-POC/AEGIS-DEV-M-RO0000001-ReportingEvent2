@@ -1,3 +1,6 @@
+#================================
+# 2026/07/08 Added by A.Kitagawa
+#================================
 #log_info("Script Starts!", action="start")
 message("[AEGIS Logging]Script Starts!")
 
